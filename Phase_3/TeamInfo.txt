@@ -1,0 +1,9 @@
+Team019:
+Li Li       email: lli474@gatech.edu
+Zihan Ma    email: zma328@gatech.edu
+Dong Xu     email: dxu329@gatech.edu
+Zhi Zheng   email: zzheng329@gatech.edu
+
+SQL Files:
+lib/sqlLib.php
+sql/team019_fa21_p3_complete_v7.sql
