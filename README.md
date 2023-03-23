@@ -6,5 +6,5 @@ We build an toy website for the auto dealership owner, Jaunty Jalopies, to run h
 3. maintain repair history
 4. search function for customers, managers and owner with different previleges. 
 
-##The EER:
+## The EER:
 ![Alt text](/Phase_2/EER.png?raw=true "Optional Title")
